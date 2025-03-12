@@ -2,7 +2,7 @@
 
 KayokoAi is a local Roleplay AI made by Sweetie Ghost (GhosttedXV) for those who don't have a friend or a girlfriend so why not get an "unrealistic" one instead? Whether you just want to chat, roleplay, or have some fun interactions..
 
-> ✨ Current Version: _<u>V2L_</u>
+> ✨ Current Version: _<u>V2L_</u> ,
 > 📅 Last Updated: 13/3/2025
 
 # 📝 Changelog  
