@@ -22,7 +22,7 @@ KayokoAi is a local Roleplay AI made by Sweetie Ghost (GhosttedXV) for those who
 ---
 
 ## 🎉 V1L8B - *(12/29/2024)*  
-#### 🔹RELEASE AI FOR PUBLIC YIPPE
+#### 🔹**RELEASE AI FOR PUBLIC YIPPE**
 ---
 
 ### 📌 Notes  
