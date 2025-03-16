@@ -11,13 +11,14 @@ KayokoAi is a local Roleplay AI made by Sweetie Ghost (GhosttedXV) for those who
 
 ---
 
-## 🎉 V2L - *(13/3/2025)*  
+## 🎉 V2L - *(17/3/2025)*  
 🔹 **Changes & Improvements**  
 - Changes version of the AI to "V2L" without add the parameter (8B, 16B, etc.)
 - Adding links to this REPOSITORY on the changelog section at the website
 - Improve AI Accuracy (I guess)
 - Security Patch (No, I don't update the security, )
 - Change model to Gemini Pro instead Flash model (IDK what the different, but I feel more suitable with the Pro)
+- Birthday update, last long for idk
 
 
 ---
