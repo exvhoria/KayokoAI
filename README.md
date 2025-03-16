@@ -6,7 +6,8 @@ KayokoAi is a local Roleplay AI made by Sweetie Ghost (GhosttedXV) for those who
 > 📅 Last Updated: 13/3/2025
 
 # 📝 Changelog  
-*All notable changes to this project will be documented here.*  
+*All notable changes to this project will be documented here. If you want to try KayokoAI Legacy Version or previous version documented, please head to link below!!*  
+*https://kayoko-index.zyrumhd.xyz*
 
 ---
 
